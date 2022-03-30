@@ -1,7 +1,7 @@
-package kr.co.binding.port.multi;
+package kr.co.jw3520;
 
-import kr.co.binding.port.multi.conf.Config;
-import kr.co.binding.port.multi.conf.Configuration;
+import kr.co.jw3520.conf.Config;
+import kr.co.jw3520.conf.Configuration;
 
 import java.util.HashMap;
 import java.util.Map;

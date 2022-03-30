@@ -1,6 +1,5 @@
-package kr.co.binding.port.multi.conf;
+package kr.co.jw3520.conf;
 
-import javax.naming.ConfigurationException;
 import java.util.ResourceBundle;
 
 public class Configuration extends AbstractConfiguration{

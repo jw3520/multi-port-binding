@@ -1,4 +1,4 @@
-package kr.co.binding.port.multi;
+package kr.co.jw3520;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
@@ -9,10 +9,9 @@ import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
 import io.netty.handler.logging.LogLevel;
 import io.netty.handler.logging.LoggingHandler;
-import kr.co.binding.port.multi.service.VacServerInitializer;
+import kr.co.jw3520.service.VacServerInitializer;
 
 import java.util.HashMap;
-import java.util.Locale;
 import java.util.Map;
 
 public class VacServer {

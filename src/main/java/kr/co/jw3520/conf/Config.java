@@ -1,4 +1,4 @@
-package kr.co.binding.port.multi.conf;
+package kr.co.jw3520.conf;
 
 import java.util.ResourceBundle;
 
